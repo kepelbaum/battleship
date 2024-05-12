@@ -1,1 +1,1 @@
-# battleship
+A simple battleship game app.
